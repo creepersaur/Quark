@@ -6,25 +6,127 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+	--ifm-color-primary: #256ec2;
+	--ifm-color-primary-dark: #2163af;
+	--ifm-color-primary-darker: #1f55a5;
+	--ifm-color-primary-darkest: #1a6e88;
+	--ifm-color-primary-light: #29a4d5;
+	--ifm-color-primary-lighter: #328dd8;
+	--ifm-color-primary-lightest: #4fa9dd;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #78b7ff;
+  --ifm-color-primary-dark: #2163af;
+  --ifm-color-primary-darker: #1f55a5;
+  --ifm-color-primary-darkest: #1a6e88;
+  --ifm-color-primary-light: #29a4d5;
+  --ifm-color-primary-lighter: #328dd8;
+  --ifm-color-primary-lightest: #4fa9dd;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+*:not(pre, code, span){
+	font-family: 'Ubuntu', Courier, monospace !important;
+}
+
+.hero {
+	background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,36,96,1) 100%) !important;
+}
+
+.hero__title{
+	color:  #fff;
+	font-weight: bolder;
+	font-size: 4rem;
+	margin-top: -20px;
+}
+
+.hero__subtitle{
+	color:  #b1d9ff;
+}
+
+.button{
+	background: rgb(72, 145, 255) !important;
+	color: #fff !important;
+	margin-right: 10px;
+
+	transition: 0.1s ease-out;
+}
+.button:hover{
+	background: rgb(255, 255, 255) !important;
+	color: #000 !important;
+	scale: 1.1;
+
+	transition: scale 0.1s ease-out;
+}
+
+.button:last-child {
+	margin-right: 0;
+}
+
+.btn_holder {
+	padding: 15px;
+	width: max-content;
+	size-adjust: -10px;
+	background: rgba(0, 0, 0, 0.411);
+	border-radius: 15px;
+	position: relative;
+	left: 50%;
+	translate: -50%;
+	align-content: center;
+}
+
+.navbar {
+	background: rgb(33, 51, 129);
+}
+
+.navbar__title {
+	display: none;
+}
+
+.navbar__logo{
+	margin-right: 0;
+}
+
+.navbar__item{
+	border-radius: 5px;
+	transition: 0.1s ease-out;
+}
+
+.navbar__item:hover {
+	color: #fff;
+	border-radius: 5px;
+	scale: 1.1;
+	margin-right: 5px;
+	background: #ffffff2a !important;
+
+	transition: 0.1s ease-out !important;
+}
+
+.menu__link--active{
+	background: rgba(65, 104, 163, 0.26) !important;
+}
+
+li ul li .menu__link {
+	margin-left: 12px;
+	background: rgba(255, 255, 255, 0.03);
+	transition: 0.1s;
+}
+
+li ul li .menu__link:hover {
+	background: rgba(255, 255, 255, 0.08);
+	transition: 0.1s;
+}
+
+/* DISABLE THE DARK MODE TOGGLE */
+.colorModeToggle_DEke {
+	display: none;
+}
+
+blockquote {
+	background: rgba(255, 255, 255, 0.123);
+	padding: 10px;
 }

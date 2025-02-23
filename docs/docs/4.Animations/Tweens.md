@@ -1,4 +1,4 @@
-# Animations / Tweens
+# Tweens
 
 Tweens are basically a drop-in replacement for TweenService tweens. (Basically the same as Springs, but without velocity)
 These reuse the `TweenInfo` objects, but will react to target changes.

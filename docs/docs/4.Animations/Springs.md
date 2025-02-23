@@ -1,4 +1,4 @@
-# Animations / Springs
+# Springs
 
 As a UI designer, it's important to make your UI reactive, in the sense that it feels nice when the user interacts with it.
 

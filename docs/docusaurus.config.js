@@ -11,11 +11,12 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Quark",
-	url: "https://github.com",
-	baseUrl: "/Quark",
+	url: "https://creepersaur.github.io",
+	baseUrl: "/quark",
 	organizationName: "creepersaur",
 	projectName: "quark",
-	deploymentBranch: "master",
+	deploymentBranch: "gh-pages",
+	tagline: "A simple reactive UI library for Roblox.",
 	
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
@@ -35,10 +36,8 @@ const config = {
 			({
 				docs: {
 					sidebarPath: "./sidebars.js",
-					// Please change this to your repo.
-					// Remove this to remove the "edit this page" links.
 					editUrl:
-						"https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+						"https://github.com/creepersaur/quark/",
 				},
 				blog: {
 					showReadingTime: true,
@@ -49,7 +48,7 @@ const config = {
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
 					editUrl:
-						"https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+						"https://github.com/creepersaur/quark/",
 					// Useful options to enforce blogging best practices
 					onInlineTags: "warn",
 					onInlineAuthors: "warn",
@@ -95,7 +94,7 @@ const config = {
 						title: "Docs",
 						items: [
 							{
-								label: "Tutorial",
+								label: "Docs",
 								to: "/docs/intro",
 							},
 						],
@@ -136,6 +135,7 @@ const config = {
 			prism: {
 				theme: prismThemes.github,
 				darkTheme: prismThemes.oneDark,
+				additionalLanguages: ["lua"]
 			},
 		}),
 };
