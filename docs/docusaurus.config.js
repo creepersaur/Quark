@@ -11,8 +11,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Quark",
-	url: "https://creepersaur.github.io",
-	baseUrl: "/quark/", // Change this to match your repo name
+	url: "https://creepersaur.github.io/Quark",
+	baseUrl: "/", // Change this to match your repo name
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
