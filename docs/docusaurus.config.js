@@ -11,17 +11,13 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Quark",
-	url: "https://creepersaur.github.io/Quark",
-	baseUrl: "/", // Change this to match your repo name
-
-	// GitHub pages deployment config.
-	// If you aren't using GitHub pages, you don't need these.
-	organizationName: "creepersaur",
-	projectName: "quark",
-	trailingSlash: false, // GitHub Pages prefers this
-
+	url: "https://github.com",
+	baseUrl: "/Quark",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
+	organizationName: "creepersaur",
+	projectName: "quark",
+	deploymentBranch: "gh-pages",
 
 	// Even if you don't use internationalization, you can use this field to set
 	// useful metadata like html lang. For example, if your site is Chinese, you
