@@ -13,11 +13,12 @@ const config = {
 	title: "Quark",
 	url: "https://github.com",
 	baseUrl: "/Quark",
-	onBrokenLinks: "throw",
-	onBrokenMarkdownLinks: "warn",
 	organizationName: "creepersaur",
 	projectName: "quark",
-	deploymentBranch: "gh-pages",
+	deploymentBranch: "master",
+	
+	onBrokenLinks: "throw",
+	onBrokenMarkdownLinks: "warn",
 
 	// Even if you don't use internationalization, you can use this field to set
 	// useful metadata like html lang. For example, if your site is Chinese, you
