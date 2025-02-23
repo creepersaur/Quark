@@ -12,7 +12,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
 	title: "Quark",
 	url: "https://creepersaur.github.io",
-	baseUrl: "/", // Change this to match your repo name
+	baseUrl: "/quark/", // Change this to match your repo name
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
