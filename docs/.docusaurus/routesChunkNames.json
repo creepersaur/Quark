@@ -1,0 +1,108 @@
+{
+  "/quark/__docusaurus/debug-e7d": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---quark-docusaurus-debugb-38-797"
+    }
+  },
+  "/quark/__docusaurus/debug/config-31b": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---quark-docusaurus-debugb-38-797"
+    }
+  },
+  "/quark/__docusaurus/debug/content-c01": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---quark-docusaurus-debugb-38-797"
+    },
+    "__props": "__props---quark-docusaurus-debug-contenta-56-e4f"
+  },
+  "/quark/__docusaurus/debug/globalData-5d3": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---quark-docusaurus-debugb-38-797"
+    }
+  },
+  "/quark/__docusaurus/debug/metadata-dfe": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---quark-docusaurus-debugb-38-797"
+    }
+  },
+  "/quark/__docusaurus/debug/registry-55a": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---quark-docusaurus-debugb-38-797"
+    }
+  },
+  "/quark/__docusaurus/debug/routes-776": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---quark-docusaurus-debugb-38-797"
+    }
+  },
+  "/quark/markdown-page-85f": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---quark-markdown-pagea-74-f1c"
+    },
+    "content": "content---quark-markdown-page-393-a83"
+  },
+  "/quark/docs-38d": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---quark-docsaba-193"
+    }
+  },
+  "/quark/docs-542": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---quark-docsc-35-ed2"
+  },
+  "/quark/docs-844": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/quark/docs/Animations/Springs-5b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---quark-docs-animations-springs-94-b-c82"
+  },
+  "/quark/docs/Animations/Tweens-999": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---quark-docs-animations-tweens-42-c-32c"
+  },
+  "/quark/docs/GettingStarted-2c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---quark-docs-getting-started-2-a-9-17d"
+  },
+  "/quark/docs/New-f7e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---quark-docs-newba-8-0ea"
+  },
+  "/quark/docs/PremadeUI-f1f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---quark-docs-premade-u-idcc-bb5"
+  },
+  "/quark/docs/Reactivity-cb4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---quark-docs-reactivity-315-e0c"
+  },
+  "/quark/docs/Scopes-2e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---quark-docs-scopes-817-936"
+  },
+  "/quark/docs/Stories-c5b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---quark-docs-stories-882-097"
+  },
+  "/quark/docs/StyleSheets-c95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---quark-docs-style-sheets-193-4fe"
+  },
+  "/quark/-f96": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---quark-markdown-pagea-74-f1c"
+    },
+    "config": "config---quark-5-e-9-13d"
+  }
+}

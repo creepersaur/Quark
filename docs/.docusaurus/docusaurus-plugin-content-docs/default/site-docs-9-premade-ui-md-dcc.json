@@ -1,0 +1,16 @@
+{
+  "id": "PremadeUI",
+  "title": "Premade UI",
+  "description": "If you have UI made by someone else, you can still use it using Quark.",
+  "source": "@site/docs/9.PremadeUI.md",
+  "sourceDirName": ".",
+  "slug": "/PremadeUI",
+  "permalink": "/quark/docs/PremadeUI",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/creepersaur/quark/docs/9.PremadeUI.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {}
+}

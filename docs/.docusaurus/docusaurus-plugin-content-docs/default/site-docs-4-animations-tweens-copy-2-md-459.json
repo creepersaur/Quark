@@ -1,0 +1,24 @@
+{
+  "id": "Animations/Tweens copy 2",
+  "title": "Tweens",
+  "description": "Tweens are basically a drop-in replacement for TweenService tweens. (Basically the same as Springs, but without velocity)",
+  "source": "@site/docs/4.Animations/Tweens copy 2.md",
+  "sourceDirName": "4.Animations",
+  "slug": "/Animations/Tweens copy 2",
+  "permalink": "/quark/docs/Animations/Tweens copy 2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/creepersaur/quark/docs/4.Animations/Tweens copy 2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Springs",
+    "permalink": "/quark/docs/Animations/Springs"
+  },
+  "next": {
+    "title": "Tweens",
+    "permalink": "/quark/docs/Animations/Tweens copy"
+  }
+}

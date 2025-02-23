@@ -1,0 +1,16 @@
+{
+  "id": "Scopes",
+  "title": "Scopes",
+  "description": "A scope can be thought of as a sandboxed environment where a copy of the original Quark module is created.",
+  "source": "@site/docs/8.Scopes.md",
+  "sourceDirName": ".",
+  "slug": "/Scopes",
+  "permalink": "/quark/docs/Scopes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/creepersaur/quark/docs/8.Scopes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {}
+}

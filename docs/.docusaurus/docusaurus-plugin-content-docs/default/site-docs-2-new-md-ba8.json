@@ -1,0 +1,16 @@
+{
+  "id": "New",
+  "title": "New",
+  "description": "Creating UI objects (or objects in general) has never been easier.",
+  "source": "@site/docs/2.New.md",
+  "sourceDirName": ".",
+  "slug": "/New",
+  "permalink": "/quark/docs/New",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/creepersaur/quark/docs/2.New.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Reactivity",
+  "title": "Reactivity",
+  "description": "As in most reactive UI libraries, there are objects which can be changed and you have the ability to connect to them, or update properties instantly when they are changed.",
+  "source": "@site/docs/3.Reactivity.md",
+  "sourceDirName": ".",
+  "slug": "/Reactivity",
+  "permalink": "/quark/docs/Reactivity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/creepersaur/quark/docs/3.Reactivity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {}
+}

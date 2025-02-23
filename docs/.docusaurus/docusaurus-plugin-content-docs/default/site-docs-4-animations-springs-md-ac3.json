@@ -1,0 +1,25 @@
+{
+  "id": "Animations.Springs",
+  "title": "Animations / Springs",
+  "description": "As a UI designer, it's important to make your UI reactive, in the sense that it feels nice when the user interacts with it.",
+  "source": "@site/docs/4.Animations.Springs.md",
+  "sourceDirName": ".",
+  "slug": "/Animations.Springs",
+  "permalink": "/quark/docs/Animations.Springs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/creepersaur/quark/docs/4.Animations.Springs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reactivity",
+    "permalink": "/quark/docs/Reactivity"
+  },
+  "next": {
+    "title": "Animations / Tweens",
+    "permalink": "/quark/docs/Animations.Tweens"
+  }
+}

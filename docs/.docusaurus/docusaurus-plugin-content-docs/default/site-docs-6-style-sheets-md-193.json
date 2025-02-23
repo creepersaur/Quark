@@ -1,0 +1,16 @@
+{
+  "id": "StyleSheets",
+  "title": "StyleSheets",
+  "description": "If you've ever done web-dev before, you must know what CSS is. (Cascading Style Sheets).",
+  "source": "@site/docs/6.StyleSheets.md",
+  "sourceDirName": ".",
+  "slug": "/StyleSheets",
+  "permalink": "/quark/docs/StyleSheets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/creepersaur/quark/docs/6.StyleSheets.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {}
+}

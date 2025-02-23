@@ -1,0 +1,16 @@
+{
+  "id": "Stories",
+  "title": "Stories",
+  "description": "For all those who don't know what a story is:",
+  "source": "@site/docs/7.Stories.md",
+  "sourceDirName": ".",
+  "slug": "/Stories",
+  "permalink": "/quark/docs/Stories",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/creepersaur/quark/docs/7.Stories.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {}
+}

@@ -1,0 +1,57 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/quark/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/quark/docs",
+          "mainDocId": "Animations/Springs",
+          "docs": [
+            {
+              "id": "Animations/Springs",
+              "path": "/quark/docs/Animations/Springs"
+            },
+            {
+              "id": "Animations/Tweens",
+              "path": "/quark/docs/Animations/Tweens"
+            },
+            {
+              "id": "GettingStarted",
+              "path": "/quark/docs/GettingStarted"
+            },
+            {
+              "id": "New",
+              "path": "/quark/docs/New"
+            },
+            {
+              "id": "PremadeUI",
+              "path": "/quark/docs/PremadeUI"
+            },
+            {
+              "id": "Reactivity",
+              "path": "/quark/docs/Reactivity"
+            },
+            {
+              "id": "Scopes",
+              "path": "/quark/docs/Scopes"
+            },
+            {
+              "id": "Stories",
+              "path": "/quark/docs/Stories"
+            },
+            {
+              "id": "StyleSheets",
+              "path": "/quark/docs/StyleSheets"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

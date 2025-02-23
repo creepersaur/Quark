@@ -1,0 +1,16 @@
+{
+  "id": "GettingStarted",
+  "title": "Getting Started",
+  "description": "Install Quark by going to the",
+  "source": "@site/docs/1.GettingStarted.md",
+  "sourceDirName": ".",
+  "slug": "/GettingStarted",
+  "permalink": "/quark/docs/GettingStarted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/creepersaur/quark/docs/1.GettingStarted.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {}
+}
